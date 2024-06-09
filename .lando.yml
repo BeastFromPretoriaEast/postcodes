@@ -1,0 +1,4 @@
+name: postcodes
+recipe: laravel
+config:
+  webroot: public
